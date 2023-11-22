@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://vvgxyuu1rei4"
-path="res://.godot/imported/Boosters_left (16 x 16).png-b0236a4514b64b069d1e2c75613c2fb6.ctex"
+uid="uid://cg4wx02x6mx7h"
+path="res://.godot/imported/Bon_Bon (16 x 16).png-7e98bd08699540066cb33658404c0001.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/Boosters_left (16 x 16).png"
-dest_files=["res://.godot/imported/Boosters_left (16 x 16).png-b0236a4514b64b069d1e2c75613c2fb6.ctex"]
+source_file="res://Scenes/enemy/Bon_Bon (16 x 16).png"
+dest_files=["res://.godot/imported/Bon_Bon (16 x 16).png-7e98bd08699540066cb33658404c0001.ctex"]
 
 [params]
 

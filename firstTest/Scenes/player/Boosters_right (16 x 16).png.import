@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://m7kb7pkbnc6c"
-path="res://.godot/imported/Boosters (16 x 16).png-ea10c3ac8f786609df65771602bcd0f5.ctex"
+uid="uid://c7np4fq08c1kq"
+path="res://.godot/imported/Boosters_right (16 x 16).png-e7a5c621693a864e0b61b6a00e419450.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/Boosters (16 x 16).png"
-dest_files=["res://.godot/imported/Boosters (16 x 16).png-ea10c3ac8f786609df65771602bcd0f5.ctex"]
+source_file="res://Scenes/player/Boosters_right (16 x 16).png"
+dest_files=["res://.godot/imported/Boosters_right (16 x 16).png-e7a5c621693a864e0b61b6a00e419450.ctex"]
 
 [params]
 
