@@ -47,7 +47,7 @@ func _process(delta: float) -> void:
 func explode() -> void:
 	speed = 0
 	animation_player.play("explode")
-	died.emit(5)
+	died.emit(2)
 	await animation_player.animation_finished
 	queue_free()
 	
